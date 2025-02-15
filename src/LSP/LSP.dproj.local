@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/07 18:27:54.000.775,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2024/12/10 00:15:37.000.065,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/10 19:19:45.000.260,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/12 19:36:17.000.103,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:55:36.028,D:\SOLID\src\LSP\LSP.dproj=D:\Embarcadero\Delphi - Project folder\Project1.dproj</Transaction>
+    <Transaction>2025/02/15 17:56:06.257,=D:\SOLID\src\LSP\src\Certo\LSP.Certo.Ave.pas</Transaction>
+    <Transaction>2025/02/15 17:56:06.315,=D:\SOLID\src\LSP\src\Certo\LSP.Certo.Pinguin.pas</Transaction>
+    <Transaction>2025/02/15 17:56:06.353,=D:\SOLID\src\LSP\src\Certo\LSP.Certo.Tucano.pas</Transaction>
+    <Transaction>2025/02/15 17:56:31.616,=D:\SOLID\src\LSP\src\Errado\LSP.Errado.Ave.pas</Transaction>
+    <Transaction>2025/02/15 17:56:31.676,=D:\SOLID\src\LSP\src\Errado\LSP.Errado.Pinguin.pas</Transaction>
+    <Transaction>2025/02/15 17:56:31.714,=D:\SOLID\src\LSP\src\Errado\LSP.Errado.Tucano.pas</Transaction>
+  </Transactions>
+</BorlandProject>

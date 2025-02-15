@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/07 18:27:54.000.775,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2024/12/10 00:15:37.000.065,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/10 19:19:45.000.260,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/12 19:36:17.000.103,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:08:05.293,D:\SOLID\src\Project\SOLID.pas=</Transaction>
+    <Transaction>2025/02/15 17:09:05.094,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:10:33.913,D:\SOLID\src\OCP\Certo\iu.Certo.FormaGeometrica.pas=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:10:53.386,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:17:49.410,D:\SOLID\src\OCP\Certo\OCP.Certo.FormaGeometrica.pas=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:18:03.767,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:22:50.558,D:\SOLID\src\OCP\Certo\OCP.Certo.Rentagulo.pas=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:31:53.421,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:33:08.426,=D:\Embarcadero\Delphi - Project folder\Unit2.pas</Transaction>
+    <Transaction>2025/02/15 17:34:40.267,D:\SOLID\src\LSP\LSP.Errado.Ave.pas=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:35:16.826,D:\SOLID\src\LSP\LSP.Errado.Tucano.pas=D:\Embarcadero\Delphi - Project folder\Unit2.pas</Transaction>
+    <Transaction>2025/02/15 17:37:00.678,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:41:56.667,D:\SOLID\src\LSP\LSP.Errado.Pinguin.pas=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:46:12.044,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:47:16.212,=D:\Embarcadero\Delphi - Project folder\Unit2.pas</Transaction>
+    <Transaction>2025/02/15 17:47:41.981,D:\SOLID\src\LSP\Certo\LSP.Certo.Ave.pas=D:\Embarcadero\Delphi - Project folder\Unit2.pas</Transaction>
+    <Transaction>2025/02/15 17:48:33.669,D:\SOLID\src\LSP\Certo\LSP.Certo.Tucano.pas=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:49:47.270,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:50:59.837,D:\SOLID\src\LSP\Certo\LSP.Certo.Pinguin.pas=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:54:33.444,D:\SOLID\src\LSP\Certo\Project1.dproj=D:\Embarcadero\Delphi - Project folder\Project1.dproj</Transaction>
+    <Transaction>2025/02/15 19:19:26.841,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 19:20:12.951,D:\SOLID\src\Project\SOLID.pas=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 19:20:12.951,D:\SOLID\src\Project\SOLID.dfm=D:\Embarcadero\Delphi - Project folder\Unit1.dfm</Transaction>
+    <Transaction>2025/02/15 19:20:29.711,=D:\SOLID\src\SRP\SRP.Certo.Boleto.pas</Transaction>
+    <Transaction>2025/02/15 19:20:29.747,=D:\SOLID\src\SRP\SRP.Errado.Boleto.pas</Transaction>
+    <Transaction>2025/02/15 19:22:41.025,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 19:23:54.854,D:\SOLID\src\SRP\Certo\iuSRP.Certo.Email.pas=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 19:24:39.315,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 19:24:51.558,D:\SOLID\src\SRP\Certo\uSRP.Certo.Email.pas=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 19:28:00.033,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 19:28:28.818,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 19:30:01.559,D:\SOLID\src\SRP\Certo\iuSRP.Certo.Boleto.pas=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 19:34:49.119,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 19:35:10.399,D:\SOLID\src\SRP\Certo\uSRP.Certo.Boleto.pas=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 19:46:07.308,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 19:46:46.581,D:\SOLID\src\OCP\Errado\OCP.Errado.FormaGeometrica.pas=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

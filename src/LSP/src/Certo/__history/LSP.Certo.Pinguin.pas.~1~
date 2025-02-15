@@ -1,0 +1,25 @@
+unit LSP.Certo.Pinguin;
+
+interface
+
+uses
+  LSP.Certo.Ave;
+type
+  TPinguin = class
+    private
+    FAve : TAve;
+    public
+    procedure Bicar;
+  end;
+
+implementation
+
+
+{ TPinguin }
+
+procedure TPinguin.Bicar;
+begin
+  FAve.Bicar;
+end;
+
+end.

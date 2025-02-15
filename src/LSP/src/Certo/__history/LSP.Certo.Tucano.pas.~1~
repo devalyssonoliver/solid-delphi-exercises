@@ -1,0 +1,17 @@
+unit LSP.Certo.Tucano;
+
+interface
+uses
+  LSP.Certo.Ave;
+type
+  TTucano = class
+    private
+    TTucano : TAve;
+    public
+  end;
+
+implementation
+
+
+
+end.

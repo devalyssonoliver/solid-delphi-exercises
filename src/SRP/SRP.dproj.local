@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/07 18:27:54.000.775,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2024/12/10 00:15:37.000.065,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/10 19:19:45.000.260,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/12 19:36:17.000.103,=D:\Embarcadero\Delphi - Project folder\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 17:58:07.748,D:\SOLID\src\SRP\SRP.dproj=D:\Embarcadero\Delphi - Project folder\Project1.dproj</Transaction>
+    <Transaction>2025/02/15 17:59:13.685,=D:\SOLID\src\SRP\src\Errado\SRP.Certo.Boleto.pas</Transaction>
+    <Transaction>2025/02/15 17:59:13.723,=D:\SOLID\src\SRP\src\Errado\SRP.Errado.Boleto.pas</Transaction>
+    <Transaction>2025/02/15 17:59:42.946,=D:\SOLID\src\SRP\src\Certo\iuSRP.Certo.Boleto.pas</Transaction>
+    <Transaction>2025/02/15 17:59:42.985,=D:\SOLID\src\SRP\src\Certo\iuSRP.Certo.Email.pas</Transaction>
+    <Transaction>2025/02/15 17:59:54.699,D:\SOLID\src\SRP\src\Errado\SRP.Certo.Boleto.pas=</Transaction>
+    <Transaction>2025/02/15 18:00:07.579,=D:\SOLID\src\SRP\Unit1.pas</Transaction>
+    <Transaction>2025/02/15 18:00:24.102,=D:\SOLID\src\SRP\src\Certo\SRP.Certo.Boleto.pas</Transaction>
+    <Transaction>2025/02/15 18:00:24.159,=D:\SOLID\src\SRP\src\Certo\uSRP.Certo.Boleto.pas</Transaction>
+    <Transaction>2025/02/15 18:00:24.197,=D:\SOLID\src\SRP\src\Certo\uSRP.Certo.Email.pas</Transaction>
+    <Transaction>2025/02/15 18:00:58.396,D:\SOLID\src\SRP\src\Certo\SRP.Certo.Boleto.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

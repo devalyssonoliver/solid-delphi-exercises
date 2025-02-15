@@ -1,0 +1,31 @@
+unit LSP.Certo.Tucano;
+
+interface
+uses
+  LSP.Certo.Ave;
+type
+  TTucano = class
+    private
+    FAve : TAve;
+    public
+    procedure Voar;
+    procedure Bicar;
+  end;
+
+implementation
+
+
+
+{ TTucano }
+
+procedure TTucano.Bicar;
+begin
+   FAve.Bicar;
+end;
+
+procedure TTucano.Voar;
+begin
+   FAve.Voar;
+end;
+
+end.
